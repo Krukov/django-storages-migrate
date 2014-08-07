@@ -4,7 +4,7 @@ Install
 
 Add to INSTALLED_APPS
 
-settings.py
+```settings.py```
 ```python
 INSTALLED_APPS = (
     ...
